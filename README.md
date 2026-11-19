@@ -24,6 +24,16 @@ mashing F5 doesn't work. This script waits for the opening time and sends the si
 4. Click **Arm**. Leave the tab open and visible and the computer awake, because browsers throttle background tabs.
 
 The result shows in the panel and in the tab title. Only a `FIXPLATZ` result is reported as a fixed place.
+A typical run in the panel looks like this:
+
+```
+Armed. Keep this tab open and visible.
+Opens in 12 s. Submitting at that moment.
+Submitting...
+Registered for Gruppe 3: FIXPLATZ
+```
+
+A test run ends with `Test run OK: dialog is open, OK not clicked.` instead.
 
 ## How it behaves
 
