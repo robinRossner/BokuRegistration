@@ -1,0 +1,10 @@
+{
+	"name": "boku-registrator",
+	"private": true,
+	"scripts": {
+		"test": "node --test --test-force-exit test/*.test.js"
+	},
+	"devDependencies": {
+		"jsdom": "^24.1.3"
+	}
+}
